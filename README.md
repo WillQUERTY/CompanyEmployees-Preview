@@ -326,7 +326,7 @@ Esta preview te enseña:
 
 ## 🚀 Próximos Pasos
 
-Puedes extender con:
+Puedes extender extender con:
 
 - 🔐 Autenticación JWT
 - 📋 Validación con FluentValidation
@@ -347,7 +347,7 @@ Puedes extender con:
 ## 📞 Notas
 
 - Esta preview usa un **Mediator simple** (sin librerías externas)
-- En producción, considera **MediatR** para features avanzadas
+- En producción, se deberia implementar **MediatR** para features avanzadas
 - Los **Handlers** se registran automáticamente por reflection
 - **Logging** está construido en cada handler
 
