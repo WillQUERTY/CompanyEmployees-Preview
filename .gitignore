@@ -1,0 +1,24 @@
+# Gitignore para Preview API
+
+## Build
+bin/
+obj/
+.vs/
+
+## Development
+*.user
+*.suo
+.vscode/
+.idea/
+
+## Logs
+logs/
+*.log
+
+## Database
+*.mdf
+*.ldf
+
+## Temp
+temp/
+tmp/
